@@ -2,8 +2,6 @@
 
 Deploy production ready [authorizer.dev](https://authorizer.dev) instance using [PipeOps](https://railway.app) with [PostgreSQL](https://github.com/authorizerdev/authorizer-railway) / [MySQL](https://github.com/authorizerdev/authorizer-railway/tree/with-mysql-redis) and Redis for free and build with it in 30seconds
 
-[![Deploy on PipeOps](https://pub-a1fbf367a4cd458487cfa3f29154ac93.r2.dev/Default.png)](#)
-
 ## ✨ Features
 
 - [Authorizer](https://authorizer.dev)
